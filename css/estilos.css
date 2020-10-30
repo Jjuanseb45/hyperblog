@@ -6,7 +6,7 @@ body {
 
 #containter {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -15,4 +15,22 @@ body {
 
 #containter h1 {
     font-size: 20px;
+}
+
+#cabecera {
+    background: #eee;
+    box-shadow: 0 2px 3px 0 rgb(128, 128, 128);
+    font-weight: bold;
+    margin: 0;
+    padding: 1rem;
+    font-size: 30px;
+}
+
+#Tagline {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+#post {
+    padding: 1em;
 }
