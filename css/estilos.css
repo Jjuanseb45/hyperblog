@@ -43,3 +43,10 @@ img {
     margin: auto auto;
     height: 7rem;
 }
+
+.footer {
+    background-color: #333;
+    color: #eee;
+    text-align: center;
+    padding: 10px;
+}
