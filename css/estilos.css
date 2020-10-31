@@ -45,6 +45,7 @@ img {
 }
 
 .footer {
+    font-weight: bolder;
     background-color: #eee;
     color: #333;
     text-align: center;
