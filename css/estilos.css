@@ -35,3 +35,10 @@ body {
     padding: 1em;
     color: rgb(221, 177, 177);
 }
+
+.footer {
+    background-color: #333;
+    color: #eee;
+    text-align: center;
+    padding: 10px;
+}
